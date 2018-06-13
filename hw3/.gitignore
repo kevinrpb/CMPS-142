@@ -1,0 +1,15 @@
+# virtualenv
+bin
+include
+lib
+pip-selfcheck.json
+*.pyc
+__pycache__
+.Python
+
+# nltk
+corpora
+tokenizers
+
+# program
+out
